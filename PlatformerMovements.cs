@@ -12,7 +12,6 @@ public class PlatformerMovements : MonoBehaviour
     private bool facingRight = true;
 
     private bool isGrounded;
-    public Transform groundcheck;
     public Transform topLeft;
     public Transform bottomRight;
     public LayerMask whatIsGround;
